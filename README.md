@@ -1,4 +1,4 @@
-# tinda_trends
+# tinda_tracks
 
 A new Flutter project.
 
