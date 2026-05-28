@@ -18,12 +18,6 @@ A cross-platform Flutter application for tracking inventory and sales — built 
 
 ---
 
-## Screenshots
-
-> *(Coming soon — feel free to add screenshots of your app here!)*
-
----
-
 ## Getting Started
 
 ### Prerequisites
